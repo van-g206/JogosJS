@@ -1,0 +1,73 @@
+body{
+    background-color: lightblue;
+}
+header{
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    text-align: center;
+}
+
+nav{
+    position: fixed;
+    height: 8%;
+    width: 100%;
+    top: 10%;
+    left: 0%;
+}
+
+main{
+    position: fixed;
+    height: 72%;
+    width: 100%;
+    top: 18%;
+    left: 0%;
+}
+
+footer{
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    top: 90%;
+    left: 0%;
+    text-align: center;
+}
+
+.tablenav{
+    width: 80%;
+    margin-left: 10%;
+    border: 0px;
+    font-size: 100%;
+}
+.tdnav{
+    width: 12%;
+    text-align: center;
+    border: 0px;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: large;
+    }
+  
+  a:active {
+    color: lightgreen;
+    background-color: transparent;
+    text-decoration: underline;
+  }
